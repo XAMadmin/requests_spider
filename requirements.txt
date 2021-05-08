@@ -27,7 +27,7 @@ cycler==0.10.0
 decorator==4.4.1
 dnspython==1.16.0
 etelemetry==0.2.0
-eventlet==0.25.1
+eventlet==0.31.0
 Flask==1.0.3
 Flask-Migrate==2.5.2
 Flask-Script==2.0.6
